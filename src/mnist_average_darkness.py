@@ -11,7 +11,7 @@ data had the closest average darkness.
 
 The program works in two steps: first it trains the classifier, and
 then it applies the classifier to the MNIST test data to see how many
-digits are correctly classified.
+digits are correctly classified.test change
 
 Needless to say, this isn't a very good way of recognizing handwritten
 digits!  Still, it's useful to show what sort of performance we get
